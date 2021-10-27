@@ -16,6 +16,8 @@
 
 int nloop;
 
+int test;   /*测试*/
+
 struct
 {
     sem_t mutex;    /*基于内存的信号量*/
